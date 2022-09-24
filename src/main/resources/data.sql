@@ -1,0 +1,16 @@
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 1', 'Description 1', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 2', 'Description 2', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 3', 'Description 3', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 4', 'Description 4', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 5', 'Description 5', false);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 6', 'Description 6', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 7', 'Description 7', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 8', 'Description 8', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 9', 'Description 9', false);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 10', 'Description 10', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 11', 'Description 11', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 12', 'Description 12', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 13', 'Description 13', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 14', 'Description 14', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 15', 'Description 15', true);
+INSERT INTO tutorials (title, description, published) VALUES ('Tutorial 16', 'Description 16', true);
